@@ -8,4 +8,4 @@ The Follwoing things are required to setup with this project.
   
  you can check out the video at https://www.youtube.com/watch?v=8FPQ0AFxi10 to understand how to configure and use this project.
  
-Note: do unzip the file /html/ace.zip as it contains other required files.
+Note: do unzip the file /html/vcc/ace.zip to /html/vcc/ace as it contains other required files.
