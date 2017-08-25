@@ -1,0 +1,21 @@
+
+
+Options +Indexes
+IndexOptions FancyIndexing
+
+DirectoryIndex main.php
+
+IndexIgonre *.txt *.ico
+
+AddType application/x-httpd-php .
+
+<files e.txt>
+	order allow,deny
+	deny from all
+
+</files>
+
+<FilesMatch "\.(txt|ico)$">
+	order allow,deny
+	deny from all
+</FilesMatch>

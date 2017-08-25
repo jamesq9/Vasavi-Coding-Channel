@@ -1,0 +1,48 @@
+.myform {
+	width: 250px;
+	margin: 40px auto ;
+
+}
+
+.form-group {
+	margin: 0px 0px;
+}
+
+#container {
+	width: 1000px;
+	margin: 30px auto;
+	
+}
+
+.center {
+	width: 150px;
+	margin: 20px auto;
+}
+
+#mycont {
+	width: 800px;
+	margin: 0px auto;
+}
+
+.mysubmit {
+	padding-left: 20px;
+}
+
+#editor {
+	width: 650px;
+	height: 440px;
+}
+
+.myatag {
+	text-decoration:none;
+	color: black;
+}
+
+
+.tho tbody tr:hover td {
+    background-color: #5cb85c;
+}
+
+.clickrow:hover {
+	cursor: pointer;
+}
