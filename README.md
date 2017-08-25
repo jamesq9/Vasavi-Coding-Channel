@@ -6,6 +6,6 @@ The Follwoing things are required to setup with this project.
   2. Java JDK 1.7 or above
   3. PhpMyAdmin (prefered).
   
- you can check out the video at https://www.youtube.com/watch?v=8FPQ0AFxi10 to understand how to configure and use this project.
+ you can check out the video at https://www.youtube.com/watch?v=LABKG0Uq0J0 to understand how to configure and use this project.
  
 Note: do unzip the file /html/vcc/ace.zip to /html/vcc/ace as it contains other required files.
