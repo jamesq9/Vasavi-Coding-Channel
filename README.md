@@ -8,4 +8,7 @@ The Follwoing things are required to setup with this project.
   
  you can check out the video at https://www.youtube.com/watch?v=LABKG0Uq0J0 to understand how to configure and use this project.
  
-Note: do unzip the file /html/vcc/ace.zip to /html/vcc/ace as it contains other required files.
+Note: 
+  1. unzip the file /html/vcc/ace.zip to /html/vcc/ace as it contains other required files.
+  2. modify the database connection details at /html/vcc/index.php and /java-setup/vcc/vcc_java/VCC.java
+  3. import the database file prodided into mysql within a database called vcc.
