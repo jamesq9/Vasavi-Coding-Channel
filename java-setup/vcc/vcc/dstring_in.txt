@@ -1,0 +1,9 @@
+8
+
+acd
+a
+aba
+abba
+aaac
+abcdabcd
+abcdeabcd

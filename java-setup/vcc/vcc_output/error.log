@@ -1,0 +1,45 @@
+limit.c: In function ‘void Init()’:
+limit.c:46:16: warning: unused variable ‘r1’ [-Wunused-variable]
+  struct rlimit r1,r2,r3,r4; 
+                ^
+limit.c:46:19: warning: unused variable ‘r2’ [-Wunused-variable]
+  struct rlimit r1,r2,r3,r4; 
+                   ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp: In function ‘int main()’:
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:22:23: error: ‘o’ was not declared in this scope
+                 for(j=o;j<M;j++)
+                       ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:27:26: error: incompatible types in assignment of ‘int’ to ‘int [(((sizetype)(((ssizetype)M) + -1)) + 1)][(((sizetype)(((ssizetype)M) + -1)) + 1)]’
+                     for(a=0;a<M;a++)
+                          ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:27:31: error: ISO C++ forbids comparison between pointer and integer [-fpermissive]
+                     for(a=0;a<M;a++)
+                               ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:27:34: error: lvalue required as increment operand
+                     for(a=0;a<M;a++)
+                                  ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:29:25: error: ‘sum’ was not declared in this scope
+                         sum=sum+A[a][M-a-1];                
+                         ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:29:33: error: ‘A’ was not declared in this scope
+                         sum=sum+A[a][M-a-1];                
+                                 ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:29:40: error: invalid operands of types ‘int’ and ‘int [(((sizetype)(((ssizetype)M) + -1)) + 1)][(((sizetype)(((ssizetype)M) + -1)) + 1)]’ to binary ‘operator-’
+                         sum=sum+A[a][M-a-1];                
+                                        ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:30:25: error: ‘sum1’ was not declared in this scope
+                         sum1=sum1+A[a][b];
+                         ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:30:40: error: ‘b’ was not declared in this scope
+                         sum1=sum1+A[a][b];
+                                        ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:32:27: error: ‘sum’ was not declared in this scope
+                     cout<<sum<<sum1<<endl;
+                           ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:32:32: error: ‘sum1’ was not declared in this scope
+                     cout<<sum<<sum1<<endl;
+                                ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:38:1: error: expected ‘}’ at end of input
+ }
+ ^
+/home/vasavi/Desktop/vcc/vcc_output/160213733040.cpp:38:1: error: expected ‘}’ at end of input
