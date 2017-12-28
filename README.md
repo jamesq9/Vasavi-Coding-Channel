@@ -10,7 +10,6 @@ The Follwoing things are required to setup with this project.
  its a long one and very slow with no audio. I will try to make a better video of the same.
  
 Note: 
-  1. unzip the file /html/vcc/ace.zip to /html/vcc/ace as it contains other required files.
-  2. modify the database connection details at /html/vcc/index.php and /java-setup/vcc/vcc_java/VCC.java
-  3. modify the paths in the file  /java-setup/vcc/vcc_java/VCC.java as required.
-  4. import the database file prodided into mysql within a database called vcc.
+  1. modify the database connection details at /html/vcc/index.php and /java-setup/vcc/vcc_java/VCC.java
+  2. modify the paths in the file  /java-setup/vcc/vcc_java/VCC.java as required.
+  3. import the database file provided into mysql within a database called vcc.
