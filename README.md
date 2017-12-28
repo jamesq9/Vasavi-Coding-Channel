@@ -1,5 +1,5 @@
-# Vasavi-Coding-Channel
-This is my college project which provides a means to host and conduct competitive coding competitions locally within college servers. it trys to replicates the features of codechef, spoj, topcoder and other sites.
+# Vasavi-Coding-Channel 
+This is my college project which provides a means to host and conduct competitive coding competitions locally within college servers. It tries to replicate the features of codechef, spoj, topcoder and other sites.
 
 The Follwoing things are required to setup with this project.
   1. LAMP server
@@ -7,9 +7,9 @@ The Follwoing things are required to setup with this project.
   3. PhpMyAdmin (prefered).
   
  you can check out the video https://www.youtube.com/watch?v=LABKG0Uq0J0 to understand how to configure and use this project.
- its a long one and very slow with no audio. I will try to make a better video of the same.
+ its a long and lenghty one with audio missing, will update the video with new one when time permits.
  
 Note: 
-  1. modify the database connection details at /html/vcc/index.php and /java-setup/vcc/vcc_java/VCC.java
-  2. modify the paths in the file  /java-setup/vcc/vcc_java/VCC.java as required.
-  3. import the database file provided into mysql within a database called vcc.
+  1. Modify the database connection details at /html/vcc/index.php and /java-setup/vcc/vcc_java/VCC.java
+  2. Modify the paths in the file  /java-setup/vcc/vcc_java/VCC.java as required.
+  3. Import the database file provided into mysql within a database called vcc.
